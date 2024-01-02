@@ -1,5 +1,3 @@
-Gold plated pcb, sanded and repainted chips.
-
 Writings on PCB:
 - MSM296T S20/P 80
 

@@ -1,3 +1,5 @@
+Gold plated pcb, sanded and repainted chips.
+
 Writings on PCB:
 - P/N 9218A
 - 27256NS
