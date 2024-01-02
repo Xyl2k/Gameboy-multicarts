@@ -1,3 +1,5 @@
+The sticker on cartridge imply "super 108 in 1" but there is 48 games.
+
 Menu-dump available.
 
 Writings on PCB:
