@@ -1,4 +1,4 @@
-Gold plated pcb, sanded and repainted chips.
+Gold plated pcb, sanded and repainted chips, DIPs soldered like if they was surface mount.
 
 Writings on PCB:
 - P/N 9218A
