@@ -1,4 +1,4 @@
-Long cartridge.
+Long cartridge, have a reset button feature, i got it not working.
 
 Writings on PCB:
 - PALCE16V8Q-25PC/4

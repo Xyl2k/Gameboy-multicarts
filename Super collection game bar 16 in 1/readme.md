@@ -1,4 +1,6 @@
-Long cartridge, menu-dump available.
+Long cartridge, , have a reset button feature.
+
+menu-dump available.
 
 Writings on PCB:
 - 18CV8

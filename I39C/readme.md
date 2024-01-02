@@ -7,3 +7,5 @@ Writings on PCB:
 ![alt text](Cartridge.jpg "Cartridge")
 
 ![alt text](PCB.jpg "PCB")
+
+![alt text](Screenshot.png "Menu screenshot as seen from a SGB2")
