@@ -1,5 +1,8 @@
 Writings on PCB:
-- MSM296T S20/P 80
+- M5M29GT320VP-80
+- 3441
+- UP-02
+- 2002.02.20
 
 ![alt text](Cartridge.jpg "Cartridge")
 
