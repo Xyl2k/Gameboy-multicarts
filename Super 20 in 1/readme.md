@@ -1,5 +1,5 @@
 Sticker on the PCB, seem to have a reset button and a battery holder but they are unpopulated.
-Menu is similar to the Super 24 in 1
+Menu is similar to the [Super 24 in 1](../Super 24 in 1)
 
 Writings on PCB:
 - 6264 LT851231
