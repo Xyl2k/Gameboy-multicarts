@@ -13,11 +13,11 @@ If you can't dump the eeprom, a screenshot of the menu is recommended.
 
 
 **For dumping:**\
-I use an Arduino Uno with a Gameboy Cart Shield v1.1 from InsideGadget (Discontinued, but seem they sold now "GBxCart RW", wich looks less primitive than what i currently use)
+I use an Arduino Uno with a [Gameboy Cart Shield v1.1](https://shop.insidegadgets.com/product/gameboy-cart-shield/) from InsideGadget (Discontinued, but seem they sold now [GBxCart RW](https://www.gbxcart.com/), wich looks less primitive than what i currently use)
 
 
 **For screenshoting:**\
-I use a Analogue Super Nt with the Super Gameboy 2 and a Elgato Game Capture HD behind the Super NT. (that a lot of hardware just for taking a screenshot but at least there is no blur.)
+I use a [Analogue Super Nt](https://www.analogue.co/super-nt) with the [Super Gameboy 2](https://en.wikipedia.org/wiki/Super_Game_Boy#Super_Game_Boy_2) and a Elgato Game Capture HD behind the Super NT.\
+That a lot of hardware just for taking a screenshot but at least there is no blur.
 
 ![alt text](preview.png "Preview")
-
