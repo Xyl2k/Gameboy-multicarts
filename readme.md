@@ -1,6 +1,7 @@
 ## Gameboy multicarts Collection.
 
-Scans of gameboy pirate cartridges and PCBs.
+Scans of gameboy pirate cartridges and PCBs.\
+This project aim is to collect and documents the Multicarts.
 
 
 ## Contributing
