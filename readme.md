@@ -18,6 +18,7 @@ I use an Arduino Uno with a [Gameboy Cart Shield v1.1](https://shop.insidegadget
 
 **For screenshoting:**\
 I use a [Analogue Super Nt](https://www.analogue.co/super-nt) with the [Super Gameboy 2](https://en.wikipedia.org/wiki/Super_Game_Boy#Super_Game_Boy_2) and a Elgato Game Capture HD behind the Super NT.\
-That a lot of hardware just for taking a screenshot but at least there is no blur.
+That a lot of hardware just for taking a screenshot but at least there is no blur.\
+When i can dump the menu, i just use the [BGB Gameboy emulator](https://bgb.bircd.org/).
 
 ![alt text](preview.png "Preview")
