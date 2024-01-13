@@ -1,5 +1,5 @@
 High quality PCB, support save.\
-Menu is similar to the [Super 24 in 1](https://github.com/Xyl2k/Gameboy-multicarts/tree/main/108%20in%201)
+Menu is similar to the [108 in 1](https://github.com/Xyl2k/Gameboy-multicarts/tree/main/108%20in%201)
 
 Menu-dump available.
 
